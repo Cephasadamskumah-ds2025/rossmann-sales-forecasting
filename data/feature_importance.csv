@@ -1,0 +1,16 @@
+feature,importance
+Rolling_Mean_30,0.37048623
+Promo,0.23124573
+Rolling_Mean_7,0.09629011
+Sales_Lag_14,0.079076745
+DayOfWeek,0.037555404
+Sales_Lag_7,0.027182452
+IsMonthEnd,0.019629516
+WeekOfYear,0.01844615
+Day,0.016176071
+StoreType_enc,0.015265396
+Month,0.014862976
+Rolling_Std_7,0.014307563
+Sales_Lag_28,0.008746016
+Quarter,0.008636807
+IsWeekend,0.0064768703
